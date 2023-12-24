@@ -554,6 +554,8 @@ section{
 .content-statis .subheading-statis{
     font-size: 20px;
     width: 70%;
+    color: #4a4a4a;
+
 }
 .content-statis .angka-wrapper{
     display: flex;
