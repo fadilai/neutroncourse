@@ -697,7 +697,10 @@ section{
     margin: 20px 5px;
 }
 .col-1-footer .copy{
-    margin-top: 50px;
+    text-align: center;
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+    margin-top: 3.5rem;
 }
 .col-2-footer h3, .col-3-footer h3, .col-4-footer h3, .col-5-footer h3{
     font-size: 30px;
@@ -777,6 +780,8 @@ section{
         font-size: 12px;   
     }
 }
+
+
 
 @media screen and (max-width: 768px) {
 
@@ -908,3 +913,10 @@ section{
     gap: 30px;
 }
 }
+
+.footer_copy {
+    text-align: center;
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+    margin-top: 3.5rem;
+  }
